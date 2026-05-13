@@ -6,7 +6,7 @@ Each project builds on core OOP principles while introducing user interaction, i
  <br> <br> <br>
 📂 Projects Overview
 
-🔹 Project 1: Object-Oriented Shape Calculator (Console-Based)
+🔹 Project 1: Object-Oriented Shape Calculator (Console-Based) <br>
 A Java application that models 2D and 3D shapes and calculates their area or volume through a menu-driven console interface.
 
 Features:
@@ -29,7 +29,7 @@ Concepts Covered:
 - Console-based UI design <br>
 
  <br>
-🔹 Project 2: JavaFX Shape Drawing Application
+🔹 Project 2: JavaFX Shape Drawing Application <br>
 A graphical JavaFX application that allows users to select, customize, and visually render shapes on a canvas.
  <br> <br>
   
@@ -53,7 +53,7 @@ Concepts Covered:
 - Visual simulation of 3D objects in 2D space <br>
 
  <br>
-🔹 Project 3: Multithreaded Traffic Simulator (Swing-Based)
+🔹 Project 3: Multithreaded Traffic Simulator (Swing-Based) <br>
 A Java Swing application that simulates moving traffic using multithreading, animated graphics, and event-driven controls. The simulation models cars traveling across multiple lanes while interacting with dynamically changing traffic lights.
  <br> <br>
 Features: <br> <br>
